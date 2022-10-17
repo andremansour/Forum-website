@@ -5,7 +5,7 @@
 
 $servername = "localhost";
 $username = "cooluser";
-$password = "asdjk1231k2j3";
+$password = "";
 $dbname = "forumsite";
 
 ?>
